@@ -1,6 +1,6 @@
 # Cloud-Networking-VPCs-NAT-Gateways
-Simple Cloud Networking: VPCs & NAT Gateways ☁️
-Today, I started my hands-on cloud journey! I built a secure virtual network from scratch. Here is a quick look at what I built and learned.
+<img width="746" height="667" alt="image" src="https://github.com/user-attachments/assets/cd86155b-1995-44da-a7d4-19141451407e" />
+
 
 # Why Use This:
 To keep our systems safe! This setup lets our hidden, private computers securely download updates from the internet without ever letting strangers or hackers inside.
